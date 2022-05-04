@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @dharmesh-data
 - 👀 I’m interested in Data Science
-- 🌱 I’m currently learning Deep Learnigng and
 - 💞️ I’m looking to collaborate on data science deep learning Projecct
 - 📫 reach me at @dp76070@gmail.com
 
