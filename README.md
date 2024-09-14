@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @dharmesh-data
-- 👀 I’m interested in Data Science
-- 💞️ I’m looking to collaborate on data science deep learning Projecct
+- 👋 Hi, I’m Dharmesh
+- I'm a passionate Data Engineer with over 2 years of experience, specializing in data migration projects, workflow orchestration with Airflow, and cloud technologies on AWS. My expertise 
+ includes building scalable ETL pipelines, managing databases, and leveraging cloud infrastructure to handle complex data challenges.
 - 📫 reach me at @dharmeshpatel111719@gmail.com
 
 <!---
